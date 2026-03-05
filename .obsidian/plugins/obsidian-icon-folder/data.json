@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiTradingview",
+      "FasCode",
+      "RiStockFill",
       "FasPen",
-      "LiExcalidrawIcon",
-      "FasArrowUp",
-      "LiBadgeDollarSign",
-      "💲"
+      "LiExcalidrawIcon"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,9 +46,24 @@
     "iconName": "FasPen",
     "iconColor": "#2f23d1"
   },
-  "量化交易": {
-    "iconName": "LiBadgeDollarSign",
-    "iconColor": "#efc44d"
+  "我獨自升級/IT老齊": {
+    "iconName": "LiCircuitBoard",
+    "iconColor": "#ff0000"
   },
-  "我獨自升級/IT老齊": "LiCircuitBoard"
+  "我獨自升級/BOS 價值投資": {
+    "iconName": "LiBadgeDollarSign",
+    "iconColor": "#00fa32"
+  },
+  "我獨自升級/BOS 價值投資/03-量化交易": {
+    "iconName": "FasCode",
+    "iconColor": "#016003"
+  },
+  "我獨自升級/BOS 價值投資/01-選擇權大師": {
+    "iconName": "RiStockFill",
+    "iconColor": "#02500f"
+  },
+  "我獨自升級/BOS 價值投資/02-進階選擇權": {
+    "iconName": "SiTradingview",
+    "iconColor": "#065700"
+  }
 }

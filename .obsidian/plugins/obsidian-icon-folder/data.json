@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiTradingview",
-      "FasCode",
-      "RiStockFill",
-      "FasPen",
-      "LiExcalidrawIcon"
+      "SiRobotframework",
+      "LiStar",
+      "TiWriting",
+      "OcProject24",
+      "LiBookUp"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,5 +65,13 @@
   "我獨自升級/BOS 價值投資/02-進階選擇權": {
     "iconName": "SiTradingview",
     "iconColor": "#065700"
-  }
+  },
+  "我獨自升級/學習的方法": "LiBookUp",
+  "專案": "OcProject24",
+  "個人日記": "TiWriting",
+  "專案/我與我的小星星": {
+    "iconName": "LiStar",
+    "iconColor": "#ffdd00"
+  },
+  "個人日記/AI 共生日記.md": "SiRobotframework"
 }

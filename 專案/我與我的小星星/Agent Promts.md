@@ -156,7 +156,3 @@ Agent 在撰寫 🔴 Red 測試案例時，必須直接對應以下 AC：
 - **Task 5.1**: ✅ 完成三語系翻譯（EN / ZH / ZH_TW）。
 - **Task 5.2**: ✅ 守護者設定頁語言切換器（LocaleProvider + SharedPreferences）。
 - **Task 5.3**: ✅ 狀態文字正向化（冒險進行中 / Quest in progress）。
-
----
-
-**[文件結束]**

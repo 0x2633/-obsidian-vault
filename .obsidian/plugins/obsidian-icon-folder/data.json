@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMoveUpRight",
       "LiTemplaterIcon",
       "TiTemplate",
       "FiCalendar",
-      "FasBookJournalWhills",
-      "OcOrganization24"
+      "FasBookJournalWhills"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -87,5 +87,9 @@
     "iconName": "FiCalendar",
     "iconColor": "#ff0000"
   },
-  "_Templates": "TiTemplate"
+  "_Templates": "TiTemplate",
+  "我獨自升級/101-工程師自我修養": {
+    "iconName": "LiMoveUpRight",
+    "iconColor": "#ff000d"
+  }
 }

@@ -1,5 +1,7 @@
 {
   "theme": "system",
   "accentColor": "",
-  "showRibbon": true
+  "showRibbon": true,
+  "baseFontSize": 16,
+  "cssTheme": "Minimal"
 }

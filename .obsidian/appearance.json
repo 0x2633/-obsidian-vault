@@ -4,6 +4,6 @@
   "showRibbon": true,
   "baseFontSize": 16,
   "cssTheme": "Minimal",
-  "textFontFamily": "Fira Code",
-  "interfaceFontFamily": "Fira Code"
+  "textFontFamily": "Fira Code,FiraCode Nerd Font Mono",
+  "interfaceFontFamily": "FiraCode Nerd Font Mono"
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookText",
       "LiMoveUpRight",
       "LiTemplaterIcon",
       "TiTemplate",
-      "FiCalendar",
-      "FasBookJournalWhills"
+      "FiCalendar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -91,5 +91,9 @@
   "我獨自升級/101-工程師自我修養": {
     "iconName": "LiMoveUpRight",
     "iconColor": "#ff000d"
+  },
+  "我獨自升級/BOS 價值投資/00-金融市場名詞解釋": {
+    "iconName": "LiBookText",
+    "iconColor": "#014102"
   }
 }

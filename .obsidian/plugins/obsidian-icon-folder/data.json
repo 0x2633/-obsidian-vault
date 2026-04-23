@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPeopleLine",
       "LiBookText",
       "LiMoveUpRight",
       "LiTemplaterIcon",
-      "TiTemplate",
-      "FiCalendar"
+      "TiTemplate"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -78,5 +78,7 @@
   "我獨自升級/工程師自我修養": {
     "iconName": "LiMoveUpRight",
     "iconColor": "#ff000d"
-  }
+  },
+  "年度計劃/2026.md": "FiCalendar",
+  "我獨自升級/管理": "FasPeopleLine"
 }
